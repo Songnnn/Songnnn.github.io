@@ -79,10 +79,10 @@ group.add(particles);
 const simplex = new SimplexNoise();
 const pos = new THREE.Vector3();
 const palette = [
-  new THREE.Color("#ffd4ee"),
-  new THREE.Color("#ff77fc"),
-  new THREE.Color("#ff77ae"),
-  new THREE.Color("#ff1775"),
+  new THREE.Color("#ff9999"),
+  new THREE.Color("#ff6633"),
+  new THREE.Color("#ff6666"),
+  new THREE.Color("#ff6600"),
 ];
 class SparkPoint {
   constructor() {
